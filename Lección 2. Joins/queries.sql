@@ -38,3 +38,4 @@ FROM Track t
 INNER JOIN MediaType m ON t.MediaTypeId = m.MediaTypeId
 INNER JOIN Genre g ON t.GenreId = g.GenreId
 INNER JOIN InvoiceLine il ON t.TrackId = il.TrackId
+WHERE g.Name = 'Rock'
