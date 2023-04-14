@@ -12,5 +12,7 @@ Las queries están organizadas en carpetas según su propósito y se pueden usar
 - **Lección 2**: Contiene queries utilizando distintos joins y aplicando condiciones.
 - **Lección 3**: Contiene queries utilizando subqueries.
 
+También agregué mi resumen personal de SQL, este resumen lo escribí cuando estaba estudiando esta tecnologia y en busqueda de mi primer empleo.
+
 ## Contacto
 <http://www.linkedin.com/in/thiagosequeira>
